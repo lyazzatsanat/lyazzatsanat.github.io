@@ -1,0 +1,74 @@
+/* Custom About page styles */
+
+/* Page container */
+.page-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Flex container for left/right columns */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+/* Left column */
+.flex-left {
+  flex: 1 1 250px;
+  text-align: center;
+}
+
+.flex-left img {
+  border-radius: 50%;
+  width: 100%;
+  max-width: 200px;
+  margin-bottom: 15px;
+}
+
+/* Right column */
+.flex-right {
+  flex: 2 1 500px;
+}
+
+/* Two-column sections inside right column */
+.two-column {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.two-column > div {
+  flex: 1 1 200px;
+}
+
+/* References section */
+.references {
+  margin-top: 30px;
+}
+
+/* Social links spacing */
+.social-links a {
+  margin-right: 10px;
+}
+
+/* Collapsible summary style */
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .flex-container, .two-column {
+    flex-direction: column;
+  }
+
+  .flex-left, .flex-right {
+    text-align: center;
+  }
+}
