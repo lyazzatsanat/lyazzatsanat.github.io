@@ -36,6 +36,7 @@ redirect_from:
       </p>
       
       <h3>Job Market Paper</h3>
+      ======
       <p>"Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs," with Roderick M. Rejesus.</p>
       
       <!-- Collapsible Abstract -->
