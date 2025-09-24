@@ -40,7 +40,7 @@ Job Market Paper
 "Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs," with Roderick M. Rejesus. 
   <!-- Collapsible Abstract -->
   <details>
-    <summary style="cursor: pointer; font-weight: bold;">Abstract (Job Market Paper)</summary>
+    <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
     <p style="margin-top:10px;">
       [This study examines the role of state-led conservation programs in promoting cover crop adoption in the United
 States (US). Utilizing county-level satellite data on cover crop acres from 16 US states between 2005 and 2020, our study
@@ -73,9 +73,12 @@ programs are flexibly designed and tailored to local needs. Nonetheless, program
     <!-- Education -->
     <div style="flex: 1; min-width: 200px;">
       <h3>Education</h3>
-      <p><b>PhD in Agricultural & Resource Economics</b>, NC State University</p>
-      <p><b>MSc in [Your Program]</b>, [Your University]</p>
-      <p><b>BSc in [Your Program]</b>, [Your University]</p>
+      <p><b>Ph.D. in Economics</b>, 2026 (expected)
+      NC State University</p>
+      <p><b>M.S. in Economics</b>, 2023
+      NC State University</p>
+      <p><b>B.A. in Economics</b>, 2021
+      Nazarbayev University</p>
     </div>
   </div>
 
