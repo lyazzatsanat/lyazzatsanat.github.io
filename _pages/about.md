@@ -18,7 +18,6 @@ redirect_from:
     <!-- Buttons -->
     <p>
       <a href="/files/cv.pdf" class="btn btn--primary" style="margin: 5px;">Download CV</a>
-      <a href="/files/jmp.pdf" class="btn btn--info" style="margin: 5px;">Job Market Paper</a>
     </p>
 
     <!-- Social Links -->
@@ -34,18 +33,28 @@ redirect_from:
   <div style="flex: 2; min-width: 300px;">
 
   <p>
-    I am a PhD candidate in Agricultural and Resource Economics at NC State University. 
-    My research examines the economics of agri-environmental policies, adoption of conservation practices, 
-    enhanced efficiency fertilizers, and crop insurance & risk management.  
+    I am a PhD candidate in Economics at NC State University. My research examines the economics of agri-environmental policies, adoption of conservation practices...
   </p>
-
+  
+Job Market Paper
+"Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs," with Roderick M. Rejesus. 
   <!-- Collapsible Abstract -->
   <details>
     <summary style="cursor: pointer; font-weight: bold;">Abstract (Job Market Paper)</summary>
     <p style="margin-top:10px;">
-      [Insert your abstract here. This text stays hidden until the user clicks "Abstract".]
+      [This study examines the role of state-led conservation programs in promoting cover crop adoption in the United
+States (US). Utilizing county-level satellite data on cover crop acres from 16 US states between 2005 and 2020, our study
+employs a staggered difference-in-differences (DiD) framework to estimate the impacts of these programs on cover crop
+uptake. The findings reveal that state programs significantly increase initial short-term adoption of cover crops. However,
+there is evidence that the strong initial adoption impact of state programs is generally not sustained over the longer term
+several years after the introduction of the state program. Bolstering state-level conservation programs offers a practical
+pathway to accelerate cover crop adoption rates and meet environmental goals in the short-term, especially since these
+programs are flexibly designed and tailored to local needs. Nonetheless, program design adjustments or new policy instruments may be needed.]
     </p>
   </details>
+  <p>
+      <a href="/files/jmp.pdf" class="btn btn--info" style="margin: 5px;">Job Market Paper</a>
+    </p>
 
   <!-- Two-column section -->
   <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
