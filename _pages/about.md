@@ -7,31 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
-
-  <!-- Left column -->
-  <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center;">
-    <img src="/images/Headshot_LS.jpg" alt="Lyazzat Sanat" style="border-radius: 50%; width: 200px; margin-bottom: 15px;">
-    <h2>Lyazzat Sanat</h2>
-    <p><em>PhD Candidate in Economics</em><br>North Carolina State University</p>
-
-    <!-- Buttons -->
-    <p>
-      <a href="/files/cv.pdf" class="btn btn--primary" style="margin: 5px;">Download CV</a>
-    </p>
-
-    <!-- Social Links -->
-    <p>
-      <a href="mailto:lsanat@ncsu.edu"><i class="fas fa-envelope"></i></a> &nbsp;
-      <a href="https://www.linkedin.com/in/lyazzatsanat"><i class="fab fa-linkedin"></i></a> &nbsp;
-      <a href="https://scholar.google.com/citations?user=XXXX"><i class="ai ai-google-scholar"></i></a> &nbsp;
-      <a href="https://github.com/XXXX"><i class="fab fa-github"></i></a>
-    </p>
-  </div>
+<div style="max-width: 1100px; margin: 0 auto; padding: 0 20px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+    <!-- Left column -->
+    <div style="flex: 1 1 250px; text-align: center;">
+      <img src="/images/Headshot_LS.jpg" alt="Lyazzat Sanat" style="border-radius: 50%; width: 100%; max-width: 200px; margin-bottom: 15px;">
+      <h2>Lyazzat Sanat</h2>
+      <p><em>PhD Candidate in Economics</em><br>North Carolina State University</p>
+      <p>
+        <a href="/files/cv.pdf" class="btn btn--primary" style="margin: 5px;">Download CV</a>
+      </p>
+      <p>
+        <a href="mailto:lsanat@ncsu.edu"><i class="fas fa-envelope"></i></a> &nbsp;
+        <a href="https://www.linkedin.com/in/lyazzatsanat"><i class="fab fa-linkedin"></i></a> &nbsp;
+        <a href="https://scholar.google.com/citations?user=XXXX"><i class="ai ai-google-scholar"></i></a> &nbsp;
+        <a href="https://github.com/XXXX"><i class="fab fa-github"></i></a>
+      </p>
+    </div>
 
   <!-- Right column -->
-  <div style="flex: 2; min-width: 300px;">
-
+  <div style="flex: 2 1 500px;">
   <p>
     I am a PhD candidate in Economics at NC State University. My research examines the economics of agri-environmental policies, adoption of conservation practices...
   </p>
