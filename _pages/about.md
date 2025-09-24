@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD Candidate in Economics at NC State University. My research...
 <p>
-  <a href="/files/CV_Lyazzat_Sanat.pdf" class="btn btn--primary" download>
+  <a href="https://lyazzatsanat.github.io/files/CV_Lyazzat_Sanat.pdf" class="btn btn--primary" download>
     Download CV
   </a>
 </p>
