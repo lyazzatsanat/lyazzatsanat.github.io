@@ -15,10 +15,10 @@ redirect_from:
 </p>
 
 <iframe 
-    src="https://docs.google.com/viewer?url={{ site.url }}{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url | uri_escape }}&embedded=true" 
+    src="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}" 
     width="100%" 
-    height="900px" 
-    style="border: none;">
-  Your browser does not support iframes. 
+    height="1000px" 
+    style="border: 1px solid #ccc;">
+  Your browser does not support PDFs. 
   <a href="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}">Download the CV here</a>.
 </iframe>
