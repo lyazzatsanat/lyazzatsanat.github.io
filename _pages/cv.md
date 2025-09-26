@@ -9,16 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+{% assign cv_file = "/files/CV_Lyazzat_Sanat.pdf" %}
+{% assign cv_version = cv_file | file_modified: "%s" %}
+
 <p>
   You can view my CV below or 
-  <a href="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}" download>download it here</a>.
+  <a href="{{ cv_file | relative_url }}?v={{ cv_version }}" download>download it here</a>.
 </p>
 
 <iframe 
-    src="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}" 
+    src="{{ cv_file | relative_url }}?v={{ cv_version }}" 
     width="100%" 
     height="1000px" 
     style="border: 1px solid #ccc;">
   Your browser does not support PDFs. 
-  <a href="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}">Download the CV here</a>.
+  <a href="{{ cv_file | relative_url }}?v={{ cv_version }}">Download the CV here</a>.
 </iframe>
