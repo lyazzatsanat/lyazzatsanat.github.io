@@ -55,14 +55,16 @@
   margin: 0 auto 20px auto;
   text-align: center;
 }
-/* Increase About page content width */
+/* Force wider main content for About page */
+.layout--single main,
 .layout--single .single__content,
-.layout--archive .page__content,
-.page__content {
-  max-width: 1000px;   /* wider content area */
-  width: 100%;
-  margin: 0 auto;      /* center content */
-  padding-left: 15px;
-  padding-right: 15px;
-  box-sizing: border-box;
+.layout--archive main,
+.layout--archive .page__content {
+  max-width: 1000px !important; /* wider content area */
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  box-sizing: border-box !important;
 }
