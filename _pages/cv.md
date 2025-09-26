@@ -14,10 +14,11 @@ redirect_from:
   <a href="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}" download>download it here</a>.
 </p>
 
-<!-- Embed using PDF.js Express -->
 <iframe 
-  src="https://pdfjs.express/viewer?file={{ site.url }}{{ site.baseurl }}/files/CV_Lyazzat_Sanat.pdf" 
-  width="100%" 
-  height="900px" 
-  style="border: none;">
+    src="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}" 
+    width="100%" 
+    height="1000px" 
+    style="border: 1px solid #ccc;">
+  Your browser does not support PDFs. 
+  <a href="{{ '/files/CV_Lyazzat_Sanat.pdf' | relative_url }}">Download the CV here</a>.
 </iframe>
