@@ -55,18 +55,8 @@
   margin: 0 auto 20px auto;
   text-align: center;
 }
-/* Expand main content area on single pages (About, CV, etc.) */
-.layout--single .sidebar {
-  flex: 0 0 250px !important; /* keep sidebar reasonable, or shrink more if needed */
-}
+@import "{{ site.theme }}";
 
-.layout--single main {
-  flex: 1 1 auto !important; /* allow main content to take remaining space */
-  max-width: 1500px !important; /* increase max-width */
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-  box-sizing: border-box !important;
+.inner {
+  max-width: 75%;
 }
