@@ -55,8 +55,14 @@
   margin: 0 auto 20px auto;
   text-align: center;
 }
-/* Increase content width for About page */
-.page__content, .single__content {
-  max-width: 900px;  /* increase from default (~700px) */
-  margin: 0 auto;    /* center content */
+/* Increase About page content width */
+.layout--single .single__content,
+.layout--archive .page__content,
+.page__content {
+  max-width: 1000px;   /* wider content area */
+  width: 100%;
+  margin: 0 auto;      /* center content */
+  padding-left: 15px;
+  padding-right: 15px;
+  box-sizing: border-box;
 }
