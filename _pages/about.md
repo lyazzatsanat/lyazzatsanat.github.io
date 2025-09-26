@@ -57,7 +57,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
     <div style="display: flex; align-items: center; margin-bottom: 1em;">
       <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;">
       <div>
-        <strong>Ph.D. in Economics, 2021--2026 (expected)</strong><br>
+        <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br>
         North Carolina State University, USA
       </div>
     </div>
@@ -65,7 +65,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
     <div style="display: flex; align-items: center; margin-bottom: 1em;">
       <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;">
       <div>
-        <strong>M.S. in Economics, 2021--2023</strong><br>
+        <strong>M.S. in Economics, 2021-2023</strong><br>
         North Carolina State University, USA
       </div>
     </div>
@@ -73,7 +73,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
     <div style="display: flex; align-items: center; margin-bottom: 1em;">
       <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;">
       <div>
-        <strong>B.A. in Economics, 2017--2021</strong><br>
+        <strong>B.A. in Economics, 2017-2021</strong><br>
         Nazarbayev University, Kazakhstan
       </div>
     </div>
