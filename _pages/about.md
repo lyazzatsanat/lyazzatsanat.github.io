@@ -42,7 +42,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
   </details>
 
   <p>
-    <a href="/files/jmp.pdf" class="btn btn--info" style="margin-top: 10px;">Job Market Paper PDF</a>
+    <a href="/files/jmp.pdf" class="btn btn--primary" style="margin-top: 10px;">Job Market Paper PDF</a>
   </p>
 </section>
 
