@@ -51,7 +51,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
 <!-- Two-column layout for Education & Research Interests -->
 <section style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 2em;">
   <!-- Education Column -->
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 350px;">
     <h2>Education</h2>
 
     <div style="display: flex; align-items: center; margin-bottom: 1em;">
@@ -80,7 +80,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
   </div>
 
   <!-- Research Interests Column -->
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 350px;">
     <h2>Research Interests</h2>
     <ul>
       <li>Agri-Environmental Policies</li>
