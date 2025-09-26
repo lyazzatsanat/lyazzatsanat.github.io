@@ -41,4 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.author__avatar img {
+  border-radius: 0 !important;
+  max-width: 250px !important;
+  width: 100% !important;
+  height: auto !important;
+  padding: 0 !important;
+  border: none !important;
+}
+
+.author__avatar {
+  display: block;
+  margin: 0 auto 20px auto;
+  text-align: center;
+}
 
