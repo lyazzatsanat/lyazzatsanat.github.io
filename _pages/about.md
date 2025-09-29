@@ -19,12 +19,13 @@ I am a PhD Candidate in Economics at NC State University. My research focuses on
 <section style="margin-top: 2em;">
   <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Job Market Paper</h2>
   
-<div style="margin-bottom: 15px;">
-  <p style="font-size: 1.2em; font-weight: bold; color: #21262d; line-height: 1.3; margin: 0;">
-    &ldquo;Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs&rdquo;
+<div class="paper-entry">
+  <p class="paper-title">
+    &ldquo;Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs&rdquo; 
+    <a href="/files/jmp.pdf" class="paper-link">(Job Market Paper)</a>
   </p>
-  <p style="font-size: 1em; margin: 3px 0 0 0;">
-    (with Roderick M. Rejesus)
+  <p class="paper-authors">
+    with Roderick M. Rejesus
   </p>
 </div>
 
