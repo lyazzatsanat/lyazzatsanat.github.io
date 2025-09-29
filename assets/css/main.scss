@@ -60,3 +60,33 @@
 .inner {
   max-width: 95%;
 }
+
+/* Research / Paper style */
+.paper-entry {
+  margin-bottom: 1.5em;
+}
+
+.paper-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #003366; /* navy blue like your screenshot */
+  margin: 0;
+  line-height: 1.4;
+}
+
+.paper-link {
+  font-weight: bold;
+  color: #555; /* muted gray for (Abstract) / (Job Market Paper) */
+  text-decoration: none;
+}
+
+.paper-link:hover {
+  text-decoration: underline;
+}
+
+.paper-authors {
+  font-size: 0.95em;
+  color: #444; /* slightly lighter than title */
+  margin: 3px 0 0 0;
+  font-style: italic; /* optional, like journals/authors */
+}
