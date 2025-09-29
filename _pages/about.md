@@ -22,10 +22,9 @@ I am a PhD Candidate in Economics at NC State University. My research focuses on
 <div class="paper-entry">
   <p class="paper-title">
     &ldquo;Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs&rdquo; 
-    <a href="/files/jmp.pdf" class="paper-link">(Job Market Paper)</a>
   </p>
   <p class="paper-authors">
-    with Roderick M. Rejesus
+    (with Roderick M. Rejesus)
   </p>
 </div>
 
@@ -48,7 +47,7 @@ new policy instruments may be needed to sustain further adoption over the long-r
   </details>
 
   <p>
-    <a href="/files/jmp.pdf" class="btn btn--primary" style="margin-top: 10px;">Job Market Paper PDF</a>
+    <a href="/files/jmp.pdf" class="btn btn--primary" style="margin-top: 10px;">Download JMP</a>
   </p>
 </section>
 
