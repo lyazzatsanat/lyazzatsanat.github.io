@@ -21,7 +21,7 @@ I am a PhD Candidate in Economics at NC State University. My research focuses on
   
 <div style="margin-bottom: 15px;">
   <p style="font-size: 1.2em; font-weight: bold; color: #21262d; line-height: 1.3; margin: 0;">
-    "Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs"
+    &ldquo;Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs&rdquo;
   </p>
   <p style="font-size: 1em; margin: 3px 0 0 0;">
     (with Roderick M. Rejesus)
