@@ -95,12 +95,3 @@ new policy instruments may be needed to sustain further adoption over the long-r
   </div>
 </section>
 
-<!-- References Section -->
-<!--<section style="margin-top: 2em;"> -->
- <!-- <h2>References</h2>-->
-  <!--<ul>-->
-   <!-- <li>Roderick M. Rejesus (advisor), NC State University</li>-->
-    <!-- <li>Zachary Brown, NC State University</li>-->
-   <!-- <li>Zachary Brown, NC State University</li>-->
- <!-- </ul>-->
-<!--</section>-->
