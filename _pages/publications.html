@@ -1,34 +1,76 @@
 ---
-layout: archive
+layout: page
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
+<h2>Working Papers</h2>
+<hr>
 
+<div class="paper">
+  <h3><b>Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs</b></h3>
+  <p><i>with Roderick M. Rejesus</i></p>
+  <p class="abstract">
+    [This study examines the role of state-led conservation programs in promoting cover crop
+adoption in the United States (US). Utilizing county-level satellite data on cover crop acres from
+16 US states between 2005 and 2020, our study employs a staggered difference-in-differences
+(DiD) framework to estimate the impacts of these programs on cover crop uptake. The findings
+reveal that state programs significantly increase initial short-term adoption of cover crops.
+However, there is evidence that the strong initial adoption impact of state programs is generally
+not sustained over the longer term several years after the introduction of the state program.
+Bolstering state-level conservation programs offers a practical pathway to accelerate cover crop
+adoption rates and meet environmental goals in the short-term, especially since these programs
+are flexibly designed and tailored to local needs. Nonetheless, program design adjustments or
+new policy instruments may be needed to sustain further adoption over the long-run.
+]
+  </p>
+  <a class="btn" href="/assets/docs/JMP.pdf">Download Paper</a>
+</div>
 
-{% include base_path %}
+<div class="paper">
+  <h3><b>Yield and Economic Impacts of Enhanced Efficiency Nitrogen Fertilizers: Evidence from a Bayesian Meta-Analysis</b></h3>
+  <p><i>with Roderick M. Rejesus and Alex L. Woodley</i></p>
+  <p class="abstract">
+    [This study employs a Bayesian meta-analysis to evaluate the yield and economic
+impacts of four major categories of enhanced efficiency nitrogen fertilizers (EENFs)
+within North American corn production systems—nitrification inhibitors (NIs), urease
+inhibitors (UIs), dual inhibitors (DIs), and controlled release fertilizers (CRFs). The
+analysis synthesizes data from 60 field experiments, revealing an average yield increase
+of 3.24% for corn produced with EENFs compared to conventional nitrogen fertilizers.
+All EENF types performed better under management conditions prone to nitrogen
+losses. NIs were particularly effective in fine-textured soils, UIs in coarse-textured soils,
+while DIs exhibited inconsistent yield improvements across most conditions. Economic
+analysis indicated that NIs and UIs generally lead to positive net returns, while DIs
+and CRFs presented mixed profitability outcomes. The variability in yield and profit
+outcomes from using the different EENFs may be the reason for the relatively low
+adoption levels observed in the United States (US). This research provides critical
+insights into the potential viability of some EENF types for sustainable agriculture,
+underscoring the need for better understanding and communicating their economic and
+agronomic advantages to facilitate further adoption. The findings serve as valuable
+guidance for policymakers and farmers aiming to optimize nitrogen fertilizer use while
+enhancing agricultural productivity and environmental sustainability.
+]
+  </p>
+</div>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="paper">
+  <h3><b>Evaluating the Impact of Pandemic Cover Crop Program on Cover Crop Adoption</b></h3>
+  <p><i></i></p>
+  <p class="abstract">
+    []
+  </p>
+</div>
 
+---
 
+<h2>Work in Progress</h2>
+<hr>
 
+<div class="paper">
+  <h3><b>Optimal Control of Joint Soil Capital and Groundwater Stock</b></h3>
+  <p><i>with Zachary Brown</i></p>
+  <p class="abstract">
+    []
+  </p>
+</div>
