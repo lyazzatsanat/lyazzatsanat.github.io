@@ -89,3 +89,66 @@
   color: #444; /* slightly lighter than title */
   
 }
+
+/* --- Research Page Styling --- */
+
+/* Space below the page title */
+.page__title {
+  margin-bottom: 2rem;
+}
+
+/* Space above and below each section heading */
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: #002b5c; /* deep academic blue */
+}
+
+/* Horizontal rule styling */
+hr {
+  border: none;
+  border-top: 2px solid #ddd;
+  margin-bottom: 2rem;
+}
+
+/* Paper container */
+.paper {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px dashed #ccc;
+}
+
+/* Paper title */
+.paper h3 {
+  color: #003399; /* distinct blue tone for titles */
+  margin-bottom: 0.3rem;
+  font-size: 1.15rem;
+}
+
+/* Co-author line */
+.paper p i {
+  color: #666;
+}
+
+/* Abstract styling */
+.abstract {
+  margin-top: 0.7rem;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* Download button */
+.paper .btn {
+  display: inline-block;
+  margin-top: 0.8rem;
+  background: #003399;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.paper .btn:hover {
+  background: #001f66;
+}
+
