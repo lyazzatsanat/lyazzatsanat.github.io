@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at NC State University. My research focuses on...
+I am a Ph.D. Candidate in Agricultural and Resource Economics at North Carolina State University. 
+
+My research lies at the intersection of agricultural production, environmental sustainability, and farmer decision-making. I study how policy design and financial incentives influence the adoption and diffusion of conservation practices such as cover cropping, no-till, and enhanced efficiency fertilizers. My doctoral research evaluates the effectiveness of different agri-environmental policy instruments—such as cost-share programs and crop insurance discounts—in promoting long-term conservation behavior through short-term incentives. Combining remote sensing data with applied econometric methods, I quantify the economic and environmental impacts of these programs. I also collaborate on interdisciplinary research with crop and soil scientists to assess the agronomic, environmental, and economic performance of enhanced efficiency fertilizers and to determine whether these practices can be financially viable for farmers without ongoing subsidies. More broadly, my work aims to inform evidence-based policy and promote resilient and sustainable food systems by aligning agricultural profitability with environmental stewardship.
+
+**I am on the 2025–2026 Job Market.**
 
 <p>
   <a href="https://lyazzatsanat.github.io/files/CV_Lyazzat_Sanat.pdf" class="btn btn--primary" download>
