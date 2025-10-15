@@ -1,214 +1,28 @@
----
----
-
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
-@import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
-/* --- Main Page Styling --- */
-
-/* General layout */
-.page__content {
-  max-width: 900px; /* wider for readability */
-  margin: 0 auto;
-  padding: 2rem 1.5rem;
-  background-color: #fff;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.7;
-  color: #222;
-}
-
-/* Adjust body background to match research aesthetic */
-body {
-  background-color: #f9f9fb;
-}
-
-/* Headings */
-h1, h2, h3, h4 {
-  color: #002b5c; /* academic navy */
-  font-weight: 600;
-  line-height: 1.3;
-}
-
-h1.page__title {
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 0.5rem;
-}
-
-/* Section headings for About, Teaching, etc. */
-h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-/* Paragraphs */
-p {
-  font-size: 1.05rem;
-  margin-bottom: 1.2rem;
-  color: #333;
-}
-
-/* Links */
-a {
-  color: #003399;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Profile / Author section */
-.author__avatar img {
-  border-radius: 8px !important;
-  max-width: 200px !important;
-  height: auto !important;
-  border: 2px solid #ddd !important;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.author__content {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.author__name {
-  font-size: 1.5rem;
-  color: #002b5c;
-  margin-top: 1rem;
-  margin-bottom: 0.3rem;
-}
-
-.author__bio {
-  font-size: 1.05rem;
-  color: #444;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-/* Buttons or links to CV, contact, etc. */
-.btn-primary {
-  background-color: #003399;
-  color: #fff;
-  padding: 8px 18px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.btn-primary:hover {
-  background-color: #001f66;
-}
-
-/* Footer */
-.site-footer {
-  text-align: center;
-  color: #666;
-  font-size: 0.9rem;
-  margin-top: 3rem;
-  padding-top: 1rem;
-  border-top: 1px solid #ddd;
-}
-
-
-/* --- Research Page Styling --- */
-
-/* Space below the page title */
-.page__title {
-  margin-bottom: 2rem;
-}
-
-/* Space above and below each section heading */
-h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  color: #002b5c; /* deep academic blue */
-}
-
-/* Horizontal rule styling */
-hr {
-  border: none;
-  border-top: 2px solid #ddd;
-  margin-bottom: 2rem;
-}
-
-/* Paper container */
-.paper {
-  margin-bottom: 2.5rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px dashed #ccc;
-}
-
-/* Paper title */
-.paper h3 {
-  color: #003399; /* distinct blue tone for titles */
-  margin-bottom: 0.3rem;
-  font-size: 1.15rem;
-}
-
-/* Co-author line */
-.paper p i {
-  color: #666;
-}
-
-/* Abstract styling */
-.abstract {
-  margin-top: 0.7rem;
-  color: #222;
-  line-height: 1.6;
-}
-
-/* Download button */
-.paper .btn {
-  display: inline-block;
-  margin-top: 0.8rem;
-  background: #003399;
-  color: white;
-  padding: 6px 14px;
-  border-radius: 5px;
-  text-decoration: none;
-}
-
-.paper .btn:hover {
-  background: #001f66;
-}
+--- 
+--- 
+/* * This file controls what is imported from /_sass * * Note that the files are processed in the order they are imported, 
+so they are partly sorted by the dependencies. Also, the first two lines of the file are required by Jekyll. 
+*/ @import "vendor/breakpoint/breakpoint", "themes", "theme/{{ site.site_theme | default: 'default' | append: '_light' }}", 
+   "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}", 
+   "include/mixins", 
+   "vendor/susy/susy", 
+   "layout/reset", 
+   "layout/base", 
+   "include/utilities", 
+   "layout/tables", 
+   "layout/buttons", 
+   "layout/notices", 
+   "layout/masthead", 
+   "layout/navigation", 
+   "layout/footer", 
+   "syntax", 
+   "layout/forms", 
+   "layout/page", 
+   "layout/archive", 
+   "layout/sidebar", 
+   "layout/json_cv", 
+   "vendor/font-awesome/fontawesome",
+   "vendor/font-awesome/solid", 
+   "vendor/font-awesome/brands" ; 
+.author__avatar img { border-radius: 0 !important; max-width: 250px !important; width: 100% !important; height: auto !important; padding: 0 !important; border: none !important; } .author__avatar { display: block; margin: 0 auto 20px auto; text-align: center; } @import "{{ site.theme }}"; /* Research / Paper style */ .paper-entry { margin-bottom: 1.2em; } .paper-title { margin-bottom: 0.3rem; font-size: 1.15rem; font-weight: bold; color: #002b5c; /* navy blue like your screenshot */ margin: 0; line-height: 1.3; } .paper-link { font-weight: bold; color: #555; /* muted gray for (Abstract) / (Job Market Paper) */ text-decoration: none; } .paper-link:hover { text-decoration: underline; } .paper-authors { font-size: 1.1em; color: #444; /* slightly lighter than title */ } /* --- Research Page Styling --- */ /* Space below the page title */ .page__title { margin-bottom: 2rem; } /* Space above and below each section heading */ h2 { margin-top: 2.5rem; margin-bottom: 1rem; color: #002b5c; /* deep academic blue */ } /* Horizontal rule styling */ hr { border: none; border-top: 2px solid #ddd; margin-bottom: 2rem; } /* Paper container */ .paper { margin-bottom: 2.5rem; padding-bottom: 1rem; border-bottom: 1px dashed #ccc; } /* Paper title */ .paper h3 { color: #003399; /* distinct blue tone for titles */ margin-bottom: 0.3rem; font-size: 1.15rem; } /* Co-author line */ .paper p i { color: #666; } /* Abstract styling */ .abstract { margin-top: 0.7rem; color: #222; line-height: 1.6; } /* Download button */ .paper .btn { display: inline-block; margin-top: 0.8rem; background: #003399; color: white; padding: 6px 14px; border-radius: 5px; text-decoration: none; } .paper .btn:hover { background: #001f66; }
 
