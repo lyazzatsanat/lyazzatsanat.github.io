@@ -25,89 +25,26 @@ so they are partly sorted by the dependencies. Also, the first two lines of the 
    "vendor/font-awesome/solid", 
    "vendor/font-awesome/brands" ; 
 
-/* --- Main Page Layout: Full-Width Academic Style --- */
+.author__avatar img { border-radius: 0 !important; 
+   max-width: 250px !important; 
+   width: 100% !important; 
+   height: auto !important; 
+   padding: 0 !important; 
+   border: none !important; } 
+.author__avatar { display: block;
+   margin: 0 auto 20px auto;
+   text-align: center; } 
+@import "{{ site.theme }}"; 
+/* Research / Paper style */ 
+.paper-entry { margin-bottom: 1.2em; } 
+.paper-title { margin-bottom: 0.3rem; font-size: 1.15rem; font-weight: bold; color: #002b5c; 
+   /* navy blue like your screenshot */ margin: 0; line-height: 1.3; } 
+.paper-link { font-weight: bold; color: #555;
+   /* muted gray for (Abstract) / (Job Market Paper) */ text-decoration: none; } 
+.paper-link:hover { text-decoration: underline; } 
+.paper-authors { font-size: 1.1em; color: #444; /* slightly lighter than title */ }
 
-.page__content {
-  max-width: 1400px; /* use more horizontal space */
-  margin: 0 auto;
-  padding: 1.5rem 3rem;
-  background-color: #fff;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.5;
-  color: #222;
-}
 
-/* Remove unnecessary whitespace around sections */
-.page__content section {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-/* Headings match research page */
-h1, h2, h3 {
-  color: #002b5c;
-  font-weight: 600;
-  line-height: 1.3;
-}
-
-h1.page__title {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
-
-/* Paragraphs */
-p {
-  font-size: 1.05rem;
-  margin-bottom: 1rem;
-  color: #333;
-}
-
-/* Buttons (same as Research page) */
-.btn--primary {
-  background-color: #003399;
-  color: white !important;
-  padding: 6px 14px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.btn--primary:hover {
-  background-color: #001f66;
-}
-
-/* Two-column sections look balanced and compact */
-section[style*="display: flex"] {
-  justify-content: space-between;
-  gap: 2rem;
-  margin-top: 1rem !important;
-}
-
-/* Lists */
-ul {
-  margin-top: 0.3rem;
-  margin-bottom: 0.3rem;
-  color: #333;
-}
-
-/* Optional: reduce space below author info */
-.author__avatar img {
-  max-width: 180px !important;
-}
-
-.author__content {
-  margin-bottom: 1rem;
-}
-
-/* Footer */
-.site-footer {
-  text-align: center;
-  margin-top: 2rem;
-  padding-top: 1rem;
-  border-top: 1px solid #ddd;
-  color: #666;
-  font-size: 0.9rem;
-}
 
  /* --- Research Page Styling --- */ 
 /* Space below the page title */ 
