@@ -85,3 +85,39 @@ hr { border: none;
    text-decoration: none; } 
 .paper .btn:hover { background: #001f66; }
 
+/* --- Reduce vertical space between sections --- */
+
+/* Reduce space above/below all section blocks */
+section {
+  margin-top: 1.2rem !important;
+  margin-bottom: 1.2rem !important;
+}
+
+/* Tighten spacing around headings */
+h1, h2, h3 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.6rem !important;
+}
+
+/* Reduce space below the page title */
+.page__title {
+  margin-bottom: 1.2rem !important;
+}
+
+/* Compact <hr> separators */
+hr {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Reduce bottom gap between paper entries (if you have many) */
+.paper {
+  margin-bottom: 1.3rem !important;
+  padding-bottom: 0.7rem !important;
+}
+
+/* Optional: slightly reduce paragraph spacing */
+p {
+  margin-bottom: 0.8rem;
+}
+
