@@ -122,8 +122,11 @@ p {
 }
 
 /* --- Font customization --- */
-body {
-  font-family: 'Lato', sans-serif;
+html, body, .page__content, .archive__item, p, li, div {
+  font-family: 'Lato', sans-serif !important;
+  font-size: 1rem; /* optional: increase size slightly */
+  color: #111;     /* ensure good contrast */
+  line-height: 1.6;
 }
 
 h1, h2, h3, h4 {
