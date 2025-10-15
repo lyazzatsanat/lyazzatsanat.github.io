@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="max-width: 1100px; margin: 0 auto; padding: 1rem 1.5rem; line-height: 1.5;">
   
 I am a Ph.D. Candidate in Agricultural and Resource Economics at North Carolina State University. 
 
@@ -32,5 +31,19 @@ My doctoral research investigates the economics of adopting and diffusing conser
   <a href="/files/jmp.pdf" class="btn btn--primary" style="margin-top: 0.5rem;">Download JMP</a>
 </section>
 
-<!-- Two-column layout for Education & Research Interests --> <section style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 2em;"> <!-- Education Column --> <div style="flex: 1; min-width: 350px;"> <h2>Education</h2> <div style="display: flex; align-items: center; margin-bottom: 1em;"> <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> <div> <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> </div> <div style="display: flex; align-items: center; margin-bottom: 1em;"> <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div> </div> <div style="display: flex; align-items: center; margin-bottom: 1em;"> <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div> </div> </div> <!-- Research Interests Column --> <div style="flex: 1; min-width: 350px;"> <h2>Research Interests</h2> <ul> <li>Agri-Environmental Policies</li> <li>Conservation Practice Adoption</li> <li>Sustainable Agriculture</li> <li>Risk Management</li> </ul> </div> </section>
-</div>
+<!-- Two-column layout for Education & Research Interests --> 
+<section style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 2em;">
+<!-- Education Column --> 
+<div style="flex: 1; min-width: 350px;"> 
+  <h2>Education</h2> 
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
+  <div> 
+    <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> </div>
+  <div style="display: flex; align-items: center; margin-bottom: 1em;"> 
+    <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
+    <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div> </div> <div style="display: flex; align-items: center; margin-bottom: 1em;"> <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
+      <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div> </div> </div> 
+  <!-- Research Interests Column --> 
+  <div style="flex: 1; min-width: 350px;"> 
+    <h2>Research Interests</h2> <ul> <li>Agri-Environmental Policies</li> <li>Conservation Practice Adoption</li> <li>Sustainable Agriculture</li> <li>Risk Management</li> </ul> </div> </section>
