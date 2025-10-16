@@ -11,10 +11,10 @@ I am a Ph.D. Candidate in Economics at North Carolina State University.
 
 My primary fields are agricultural and environmental economics. My research examines the effectiveness and efficiency of agri-environmental policy instruments in promoting conservation practice adoption, with a particular focus on economic incentive programs. I also collaborate with crop and soil scientists to evaluate emerging nutrient management technologies through systematic review and cost–benefit analysis. My work integrates applied econometric methods and models of farmer behavior with remote-sensing data to identify the drivers of environmentally sustainable production decisions and inform the design of agri-environmental policies.
 
-<p><strong>I am on the 2025–2026 Job Market.</strong> You can view my <a href="https://lyazzatsanat.github.io/files/CV_Lyazzat_Sanat.pdf" style="color:#003399; text-decoration:none;">CV here</a> and contact me at <a href="mailto:lsanat@ncsu.edu" style="color:#003399; text-decoration:none;">lsanat@ncsu.edu</a>.</p>
+<p><strong>I am on the 2025–2026 Job Market.</strong> You can view my <a href="https://lyazzatsanat.github.io/files/CV_Lyazzat_Sanat.pdf" style="color:#003399; text-decoration:underline;">CV here</a> or contact me at <a href="mailto:lsanat@ncsu.edu" style="color:#003399; text-decoration:underline;">lsanat@ncsu.edu</a>.</p>
 
 <section style="margin-top: 2rem;">
-  <h2 style="color:#002b5c; margin-bottom:0.5rem;">Job Market Paper</h2>
+  <h3 style="color:#002b5c; margin-bottom:0.5rem;">Job Market Paper</h3>
   <p style="margin-bottom:0.3rem;">
     <strong>“Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs”</strong><br>
     <em>(with Roderick M. Rejesus)</em>
@@ -28,7 +28,7 @@ My primary fields are agricultural and environmental economics. My research exam
 <section style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 2em;">
 <!-- Education Column --> 
 <div style="flex: 1; min-width: 350px;"> 
-  <h2>Education</h2> 
+  <h3>Education</h3> 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
   <div> 
@@ -39,4 +39,4 @@ My primary fields are agricultural and environmental economics. My research exam
       <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div> </div> </div> 
   <!-- Research Interests Column --> 
   <div style="flex: 1; min-width: 350px;"> 
-    <h2>Research Interests</h2> <ul> <li>Agri-Environmental Policies</li> <li>Conservation Practice Adoption</li> <li>Sustainable Agriculture</li> <li>Risk Management</li> </ul> </div> </section>
+    <h3>Research Interests</h3> <ul> <li>Agri-Environmental Policies</li> <li>Conservation Practice Adoption</li> <li>Sustainable Agriculture</li> <li>Risk Management</li> </ul> </div> </section>
