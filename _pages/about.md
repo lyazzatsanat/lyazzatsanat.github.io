@@ -42,14 +42,13 @@ My primary fields are agricultural and environmental economics. My research exam
 <!-- Education Column --> 
 <div style="flex: 1; min-width: 350px;"> 
   <h3>Education</h3> 
-<div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
+
   <div> 
-    <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> </div>
-  <div style="display: flex; align-items: center; margin-bottom: 1em;"> 
-    <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
-    <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div> </div> <div style="display: flex; align-items: center; margin-bottom: 1em;"> <img src="/images/grad-hat.png" alt="Graduation Cap" style="width: 40px; margin-right: 10px;"> 
-      <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div> </div> </div> 
+    <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> 
+   
+    <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div>  
+    
+      <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div>  </div> 
   <!-- Research Interests Column --> 
   <div style="flex: 1; min-width: 350px;"> 
     <h3>Research Interests</h3> <ul> <li>Agri-Environmental Policies</li> <li>Conservation Practice Adoption</li> <li>Sustainable Agriculture</li> <li>Risk Management</li> </ul> </div> </section>
