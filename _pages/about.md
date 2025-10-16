@@ -17,7 +17,7 @@ My primary fields are agricultural and environmental economics. My research exam
   <h3 style="color:#002b5c; margin-bottom:0.5rem;">Job Market Paper</h3>
 
   <section class="paper-entry">
-  <h3 class="paper-title">Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs</h3>
+  <h4 class="paper-title">Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs</h4>
   <p class="paper-authors"><i>with Roderick M. Rejesus</i> <em>[Draft forthcoming]</em></p>
 
   <details>
@@ -34,10 +34,6 @@ My primary fields are agricultural and environmental economics. My research exam
       may be needed to sustain further adoption over the long run.
     </p>
   </details>
-
-  <p style="margin-top:0.6rem;">
-    <a href="/files/jmp.pdf" class="paper-link">Download JMP</a>
-  </p>
 </section>
 </section>
 
