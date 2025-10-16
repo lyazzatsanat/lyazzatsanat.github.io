@@ -43,8 +43,7 @@ My primary fields are agricultural and environmental economics. My research exam
 <div style="flex: 1; min-width: 350px;"> 
   <h3>Education</h3> 
 
-  <div> 
-    <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> 
+  <div> <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> 
    
     <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div>  
     
