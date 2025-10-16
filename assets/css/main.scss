@@ -155,3 +155,35 @@ h1, h2, h3, h4 {
   color: #002b5c; /* your deep blue */
 }
 
+.teaching-section {
+  margin-top: 2rem;
+}
+
+.teaching-block {
+  margin-bottom: 1.8rem;
+}
+
+.teaching-block h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  color: #000; /* black title */
+}
+
+.teaching-block .institution {
+  font-size: 0.95rem;
+  color: #666; /* muted gray for institution name */
+  margin-bottom: 0.4rem;
+}
+
+.teaching-block ul {
+  margin: 0;
+  padding-left: 1.2rem; /* standard bullet indent */
+}
+
+.teaching-block li {
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
