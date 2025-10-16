@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
   
-I am a Ph.D. Candidate in Agricultural and Resource Economics at North Carolina State University. 
+I am a Ph.D. Candidate in Economics at North Carolina State University. 
 
-My doctoral research investigates the economics of adopting and diffusing conservation practices—such as cover cropping, no-till, and enhanced efficiency fertilizers—and evaluates how agri-environmental policy designs influence these decisions. Using remote sensing data and applied econometric methods, I assess the heterogeneous impacts of policy instruments, including state cost-share programs and crop insurance discounts, in promoting long-term changes in land management through short-term incentives. Part of my research involves interdisciplinary collaboration with crop and soil scientists to evaluate the agronomic, environmental, and economic viability of enhanced efficiency fertilizers and their potential to remain viable without continued subsidies. More broadly, my work seeks to advance a more integrated understanding of how policy, technology, and farmer behavior interact to shape the sustainability and resilience of agricultural systems.
-
+My primary fields are agricultural and environmental economics. My research examines the effectiveness and efficiency of agri-environmental policy instruments in promoting conservation practice adoption, with a particular focus on economic incentive programs. I also collaborate with crop and soil scientists to evaluate emerging nutrient management technologies through systematic review and cost–benefit analysis. My work integrates applied econometric methods and models of farmer behavior with remote-sensing data to identify the drivers of environmentally sustainable production decisions and inform the design of agri-environmental policies.
 
 <p><strong>I am on the 2025–2026 Job Market.</strong></p>
 
