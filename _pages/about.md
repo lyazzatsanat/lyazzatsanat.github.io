@@ -50,4 +50,9 @@ My primary fields are agricultural and environmental economics. My research exam
       <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div>  </div> 
   <!-- Research Interests Column --> 
   <div style="flex: 1; min-width: 350px;"> 
-    <h3>Research Interests</h3> <ul> <li>Agri-Environmental Policies</li> <li>Conservation Practice Adoption</li> <li>Sustainable Agriculture</li> <li>Risk Management</li> </ul> </div> </section>
+    <h3>Research Interests</h3> <ul> 
+      <li>Agri-Environmental Policies</li> 
+      <li>Adoption and Diffusion of Conservation Practices & Technologies</li> 
+      <li>Sustainable Crop Production Systems</li> 
+      <li>Farmer Behavior and Decision-Making</li>
+      <li>Climate Change Adaptation and Risk Management in Agriculture</li> </ul> </div> </section>
