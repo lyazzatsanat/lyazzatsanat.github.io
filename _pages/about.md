@@ -14,8 +14,8 @@ My primary fields are agricultural and environmental economics. My research exam
 <p><strong>I am on the 2025–2026 Job Market.</strong> You can view my <a href="https://lyazzatsanat.github.io/files/CV_Lyazzat_Sanat.pdf" style="color:#003399; text-decoration:underline;">CV here</a> or contact me at <a href="mailto:lsanat@ncsu.edu" style="color:#003399; text-decoration:underline;">lsanat@ncsu.edu</a>.</p>
 
 <section style="margin-top: 2rem;">
-  <h3 style="color:#002b5c; margin-bottom:0.5rem;">Job Market Paper</h3>
-  <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
+  <h3 class="section-title">Job Market Paper</h3>
+  
   <section class="paper-entry">
   <h4 class="paper-title">Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs</h4>
   <p class="paper-authors"><i>with Roderick M. Rejesus</i> <em>[Draft forthcoming]</em></p>
@@ -41,8 +41,8 @@ My primary fields are agricultural and environmental economics. My research exam
 <section style="display: flex; flex-wrap: wrap; gap: 2em; margin-top: 2em;">
 <!-- Education Column --> 
 <div style="flex: 1; min-width: 350px;"> 
-  <h3>Education</h3> 
-  <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
+  <h3 class="section-title">Education</h3>
+  
   <div> <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> 
    
     <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div>  
@@ -50,8 +50,8 @@ My primary fields are agricultural and environmental economics. My research exam
       <div> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div>  </div> 
   <!-- Research Interests Column --> 
   <div style="flex: 1; min-width: 350px;"> 
-    <h3>Research Interests</h3> <ul> 
-    <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
+    <h3 class="section-title">Research Interests</h3> <ul> 
+    
       <li>Agri-Environmental Policies</li> 
       <li>Adoption and Diffusion of Conservation Practices</li> 
       <li>Sustainable Crop Production Systems</li> 
