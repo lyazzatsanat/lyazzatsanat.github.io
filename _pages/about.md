@@ -15,7 +15,7 @@ My primary fields are agricultural and environmental economics. My research exam
 
 <section style="margin-top: 2rem;">
   <h3 style="color:#002b5c; margin-bottom:0.5rem;">Job Market Paper</h3>
-
+  <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
   <section class="paper-entry">
   <h4 class="paper-title">Promoting Cover Crop Use in the United States: The Role of State-led Incentive Programs</h4>
   <p class="paper-authors"><i>with Roderick M. Rejesus</i> <em>[Draft forthcoming]</em></p>
@@ -42,7 +42,7 @@ My primary fields are agricultural and environmental economics. My research exam
 <!-- Education Column --> 
 <div style="flex: 1; min-width: 350px;"> 
   <h3>Education</h3> 
-
+  <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
   <div> <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> 
    
     <div> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div>  
@@ -51,6 +51,7 @@ My primary fields are agricultural and environmental economics. My research exam
   <!-- Research Interests Column --> 
   <div style="flex: 1; min-width: 350px;"> 
     <h3>Research Interests</h3> <ul> 
+    <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
       <li>Agri-Environmental Policies</li> 
       <li>Adoption and Diffusion of Conservation Practices & Technologies</li> 
       <li>Sustainable Crop Production Systems</li> 
