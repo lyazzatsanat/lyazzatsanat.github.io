@@ -25,6 +25,14 @@ so they are partly sorted by the dependencies. Also, the first two lines of the 
    "vendor/font-awesome/solid", 
    "vendor/font-awesome/brands" ; 
 
+.author__name {
+  font-size: 2rem !important;   /* Adjust as needed */
+}
+
+.author__bio {
+  font-size: 1rem !important;   /* optional: smaller subtitle */
+}
+
 
 @import "{{ site.theme }}";
 
