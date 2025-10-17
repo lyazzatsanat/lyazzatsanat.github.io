@@ -41,6 +41,13 @@ so they are partly sorted by the dependencies. Also, the first two lines of the 
    margin: 0 auto 20px auto;
    text-align: center; } 
 @import "{{ site.theme }}"; 
+
+.section-title {
+  color: #002b5c;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;  /* space between text and line */
+  margin-bottom: 1rem;  /* space below line */
+}
 /* Research / Paper style */ 
 .paper-entry {
   margin-bottom: 1rem; /* slightly less space between papers */
