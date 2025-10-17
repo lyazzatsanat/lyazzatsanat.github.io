@@ -53,7 +53,7 @@ My primary fields are agricultural and environmental economics. My research exam
     <h3>Research Interests</h3> <ul> 
     <hr style="border: none; border-top: 2px solid #ccc; margin-bottom: 1rem;">
       <li>Agri-Environmental Policies</li> 
-      <li>Adoption and Diffusion of Conservation Practices & Technologies</li> 
+      <li>Adoption and Diffusion of Conservation Practices</li> 
       <li>Sustainable Crop Production Systems</li> 
       <li>Farmer Behavior and Decision-Making</li>
-      <li>Climate Change Adaptation and Risk Management in Agriculture</li> </ul> </div> </section>
+      <li>Climate Change Adaptation and Risk Management</li> </ul> </div> </section>
