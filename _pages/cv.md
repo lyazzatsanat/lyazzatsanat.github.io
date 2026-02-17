@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign cv_file = "/files/CV_Lyazzat_Sanat.pdf" %}
+{% assign cv_file = "/files/CV_Lyazzat Sanat.pdf" %}
 
 <p>
   You can view my CV below or 
