@@ -44,8 +44,6 @@ My primary fields are agricultural and environmental economics. My research exam
   <h3 class="section-title">Education</h3>
   
   <div class="education-item"> <strong>Ph.D. in Economics, 2021-2026 (expected)</strong><br> North Carolina State University, USA </div> 
-   
-    <div class="education-item"> <strong>M.S. in Economics, 2021-2023</strong><br> North Carolina State University, USA </div>  
     
       <div class="education-item"> <strong>B.A. in Economics, 2017-2021</strong><br> Nazarbayev University, Kazakhstan </div>  </div> 
   <!-- Research Interests Column --> 
