@@ -205,3 +205,28 @@ h1, h2, h3, h4 {
 .education-item {
   margin-bottom: 0.5rem; /* Adjust spacing */
 }
+
+@media (max-width: 768px) {
+  .author__avatar img {
+    max-width: 200px;
+    width: 60vw;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .author__avatar {
+    text-align: center;
+    display: block;
+  }
+
+  .author__content {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .author__name {
+    font-size: 1.4em;
+  }
+}
