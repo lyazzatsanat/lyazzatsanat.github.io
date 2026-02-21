@@ -23,3 +23,20 @@
     </div>
   </div>
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var visibleLinks = document.querySelectorAll(".greedy-nav .visible-links li:not(.persist)");
+    var hiddenLinks = document.querySelector(".greedy-nav .hidden-links");
+    var toggle = document.querySelector(".greedy-nav__toggle");
+
+    // Move all non-persist links to hidden-links
+    visibleLinks.forEach(function(link) {
+      hiddenLinks.appendChild(link);
+    });
+
+    // Show hidden links on toggle click
+    toggle.addEventListener("click", function() {
+      hiddenLinks.classList.toggle("hidden");
+    });
+  });
+</script>
