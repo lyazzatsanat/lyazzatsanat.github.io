@@ -244,14 +244,3 @@ h1, h2, h3, h4 {
 }
 
 
-
-@media (max-width: 900px) {
-  .greedy-nav .visible-links li:not(.persist) {
-    display: none !important;
-  }
-
-  .greedy-nav__toggle {
-    display: flex !important;
-    visibility: visible !important;
-  }
-}
