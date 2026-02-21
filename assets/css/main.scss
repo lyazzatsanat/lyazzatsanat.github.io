@@ -248,8 +248,9 @@ h1, h2, h3, h4 {
     min-width: 200px !important;
   }
 
-  .greedy-nav .visible-links a {
-    display: none !important;
+  .greedy-nav .visible-links {
+    max-width: 0 !important;
+    overflow: hidden !important;
   }
 
   .greedy-nav__toggle {
