@@ -243,14 +243,17 @@ h1, h2, h3, h4 {
   }
 }
 
-.greedy-nav .site-title {
-  min-width: 250px !important;
-  flex-grow: 1 !important;
-}
+@media (max-width: 900px) {
+  .greedy-nav .site-title {
+    min-width: 200px !important;
+  }
 
-.greedy-nav .visible-links {
-  flex-shrink: 1 !important;
-  min-width: 0 !important;
-}
+  .greedy-nav .visible-links a {
+    display: none !important;
+  }
 
+  .greedy-nav__toggle {
+    display: flex !important;
+  }
+}
 
