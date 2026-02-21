@@ -277,10 +277,11 @@ h1, h2, h3, h4 {
   .author__name, .author__bio {
     text-align: center !important;
   }
+   }
+
 
 @media (max-width: 600px) {
   .greedy-nav .visible-links {
     max-width: 0 !important;
     overflow: hidden !important;
   }
-}
